@@ -115,7 +115,6 @@ Alternatively, running the project will auto-create the database and tables via 
 
 ## Credits
 
-- Developed by Aman Agrawal, Pushpit Jain, and Rathin Nair
 - Inspired by [Quora](https://quora.com)
 
 ---
